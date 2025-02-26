@@ -117,7 +117,7 @@ Test Line testfeaturechange
 Test Line testfeature
 Test Line testfeaturechange
 Test Line testfeature
-Test Line testfeaturechange
+Test Line testfeaturechangehunk3change
 Test Line testfeature
 Test Line testfeaturechange
 Test Line testfeature
@@ -157,7 +157,7 @@ Test Line testfeaturechange
 Test Line testfeature
 Test Line testfeaturechange
 Test Line testfeature
-Test Line testfeaturechange
+Test Line testfeaturechangehunk4change
 Test Line testfeature
 Test Line testfeaturechange
 Test Line testfeature
