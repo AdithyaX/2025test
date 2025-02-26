@@ -4,7 +4,7 @@ Test Line testfeaturechangetestchange
 Test Line testfeature
 Test Line testfeaturechange
 Test Line testfeature
-Test Line testfeaturechange
+Test Line testfeaturechangehunk1change
 Test Line testfeature
 Test Line testfeaturechange
 Test Line testfeature
@@ -34,7 +34,7 @@ Test Line testfeaturechange
 Test Line testfeature
 Test Line testfeaturechange
 Test Line testfeature
-Test Line testfeaturechange
+Test Line testfeaturechangehunk2change
 Test Line testfeature
 Test Line testfeaturechange
 Test Line testfeature
